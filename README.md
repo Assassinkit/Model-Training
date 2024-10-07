@@ -1,4 +1,4 @@
-Steps that I followed for training the Dataset
+Steps that I followed for training and tuning the performance the Dataset
  1. Load dataset
  2. Split to X and y
  3. Split data to train/test set
